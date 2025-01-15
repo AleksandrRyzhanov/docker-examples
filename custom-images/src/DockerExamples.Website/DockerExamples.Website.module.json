@@ -1,0 +1,24 @@
+{
+    "namespace": "DockerExamples.Website",
+    "description": "serialized practical tasks",
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/User Defined"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project"
+            },
+            {
+                "name": "API Key",
+                "path": "/sitecore/system/Settings/Services/API Keys/API Key"
+            },
+            {
+                "name": "Content",
+                "path": "/sitecore/content/JssApp"
+            }
+        ]
+    }
+}

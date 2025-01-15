@@ -1,0 +1,36 @@
+﻿---
+ID: "2dbbc3d9-9548-44b8-b919-ef6e497e2119"
+Parent: "c7cc0df8-90c6-40d6-bac9-86dadd14e62c"
+Template: "7fd3ff94-07c5-4477-84ae-d89bf51ad1f0"
+Path: /sitecore/content/JssApp/Home/New Carousel
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250115T160513Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2bf26598-d725-4641-8e58-5bdbdb004f82"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250115T160600Z
+    - ID: "ed71413a-992d-4d6a-927e-9b499573c443"
+      Hint: Carousel Slides
+      Value: |
+        {8601FD73-68AA-49A5-96D5-4C3CA5CE7237}
+        {760FF60D-DFC1-4EEE-A95A-7ABCC4EA4F38}
