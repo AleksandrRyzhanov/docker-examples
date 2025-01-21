@@ -51,6 +51,7 @@
   <ItemGroup>
     <Content Include="App_Config\Include\DockerExamples.XConnect.config" />
     <Content Include="App_Config\Include\DockerExamples.JssAppConfiguration.config" />
+    <Content Include="App_Config\Include\zzz.DockerExamples.GraphQL.config" />
     <Content Include="App_Config\Include\Sitecore.Services.GraphQL.Content.Web.config" />
     <Content Include="App_Config\Include\Sitecore.Services.GraphQL.Content.Master.config" />
     <None Include="Properties\PublishProfiles\DockerDeploy.pubxml" />
